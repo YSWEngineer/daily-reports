@@ -18,5 +18,5 @@
 - 焦らず少しずつ理解していくこと。
   
 ## 学習時間
-- Today:  hours  min
-- Total: 56 hours 01 min
+- Today:  6 hours 01 min
+- Total: 62 hours 02 min

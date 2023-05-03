@@ -24,5 +24,5 @@
 - 思っていた以上に時間が掛かってしまいましたが「Node.jsでできることがこんなにあるのか」と驚きながら学習を行いました。覚えることがどんどん増えていきますが、焦らず一つずつ消化していきたいと思います。
 
 ## 学習時間
-- Today:&nbsp;&nbsp;&nbsp;3 hours 40 min
-- Total: 137 hours 21 min
+- Today:&nbsp;&nbsp;&nbsp;1 hours 31 min
+- Total: 138 hours 52 min

@@ -22,5 +22,5 @@
 - ここ数日、勉強できない日が続いていたのですが、timesの呟き、レポート、アウトプット、質問、Twitterは欠かさず拝読して情報収集と学習のモチベーションを維持していました。改めて素晴らしいSlackのコミュニティと今参加されてらっしゃる皆さんには感謝の気持ちでいっぱいです。ありがとうございます。
 
 ## 学習時間
-- Today:&nbsp;&nbsp; 1 hours &nbsp;&nbsp;02 min
+- Today:&nbsp;&nbsp; 1 hours 02 min
 - Total: 217 hours 23 min

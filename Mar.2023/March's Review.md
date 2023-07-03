@@ -9,8 +9,3 @@
 | Total | Days of study in one month | Daily average study hours |
 | :---: | :---: | :---: |
 | 56 hours 08 min | 10 days | 5.6 hours |
-
-## 学習内容
-
-## 作成した記事 ※タイトルとURLを載せよう
-

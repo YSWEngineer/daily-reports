@@ -12,5 +12,5 @@
 | :---: | :---: | :---: |
 | 77.8 hours | 22 days | 3.53 hours |
 
-## 作成した記事 ※タイトルとURLを載せよう
-【プログラミングスクール】Happiness Chainの入会から1ヶ月経ちました。
+## 作成した記事
+- [【プログラミングスクール】Happiness Chainの入会から1ヶ月経ちました。](https://qiita.com/YSWEngineer/items/5bb68b838069f5f0a1ac "【プログラミングスクール】Happiness Chainの入会から1ヶ月経ちました。")

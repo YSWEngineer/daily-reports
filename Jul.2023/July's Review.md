@@ -14,7 +14,8 @@
 | hours min | days | hours min |
 
 ## 学習内容
-
+### July 1st - July 7th
+- 「もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう | Udemy」
 ## 作成した記事
 
 

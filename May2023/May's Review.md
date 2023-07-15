@@ -1,6 +1,6 @@
 # 5月のレビュー
 
-## 学習時間
+## ⏰ 学習時間
 | 7days | Study time |
 | :---: | :---: |
 | May 1st - May 7th | 14.8 hours |

@@ -25,10 +25,10 @@
   - output
   - times
 ### Typing練習
-- monkeytype
-- typing.io
-- 寿司打
-- e-typing
+- [monkeytype](https://monkeytype.com)
+- [typing.io](https://typing.io)
+- [寿司打](https://sushida.net/play.html)
+- [e-typing](https://www.e-typing.ne.jp)
 ### 学習
 - HCロードマップ(カリキュラム)学習
 - 日報の作成・提出

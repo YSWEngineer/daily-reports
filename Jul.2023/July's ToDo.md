@@ -1,7 +1,7 @@
 # 7月のToDo
 ## ✅ 7月の目標
 ### HCロードマップ
-- HTML/CSS アウトプット課題に取り組むこと
+- HTML/CSS 『アウトプット課題』まで進むこと
   - 以下のサイトのコーディング模写を行う
     - [Zennの2種類の執筆方法について](https://zenn.dev/zenn/articles/editor-guide )
 ### ボディメイク

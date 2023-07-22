@@ -4,7 +4,7 @@
 | :---: | :---: |
 | July 1st - July 7th | 25.1h |
 | July 8th - July 14th | 25.5h |
-| July 15th - July 21st ||
+| July 15th - July 21st | 21.8h |
 | July 22nd - July 28th ||
 | July 29th - July 31st ||
 

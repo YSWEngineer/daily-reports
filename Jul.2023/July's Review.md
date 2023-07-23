@@ -19,6 +19,8 @@
 ### July 8th - July 14th
 - 『Linux標準教科書』
 ### July 15th - July 21st
+- 『Linux標準教科書』
+- Linuxコマンドを自分の言葉で説明する記事・ブログの作成
 ### July 22nd - July 28th
 ### July 29th - July 31st
 ---

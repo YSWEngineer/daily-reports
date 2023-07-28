@@ -5,7 +5,7 @@
 | July 1st - July 7th | 25.1h |
 | July 8th - July 14th | 25.5h |
 | July 15th - July 21st | 21.8h |
-| July 22nd - July 28th ||
+| July 22nd - July 28th | 28.2h |
 | July 29th - July 31st ||
 
 | Total | Days of study in one month | Daily average study hours |

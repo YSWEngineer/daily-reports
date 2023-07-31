@@ -1,16 +1,16 @@
 # 7月のレビュー
 ## ⏰ 学習時間
-| 7days | Study time |
+| 7 days | Study time |
 | :---: | :---: |
-| July 1st - July 7th | 25.1h |
-| July 8th - July 14th | 25.5h |
-| July 15th - July 21st | 21.8h |
-| July 22nd - July 28th | 28.2h |
-| July 29th - July 31st | 18.3h |
+| July 1st - July 7th | 25.1 h |
+| July 8th - July 14th | 25.5 h |
+| July 15th - July 21st | 21.8 h |
+| July 22nd - July 28th | 28.2 h |
+| July 29th - July 31st | 18.3 h |
 
 | Total | Days of study in one month | Daily average study hours |
 | :---: | :---: | :---: |
-| hours min | days | hours min |
+| 119 hours | 22 days | 5.4 hours |
 ---
 ## 🖋️ 学習内容
 ### July 1st - July 7th

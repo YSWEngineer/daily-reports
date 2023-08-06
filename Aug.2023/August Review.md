@@ -16,8 +16,10 @@
 ### August 1st - August 7th
 - Linuxコマンドを自分の言葉で説明する記事・ブログの作成
   - [【Linux】初学者が知っておきたい、アレとか、コレとか……](https://qiita.com/YSWEngineer/items/52370b37486f5907fc87 "【Linux】初学者が知っておきたい、アレとか、コレとか……") Qiitaに投稿
-- 『pecoとghqを導入する』
+- 『pecoとghqを導入する』 ※内容と学習の意図を意識しながら取り組むこと
   - インプット教材 『pecoとghqで今より2倍速くコーディングしよう』を視聴
+    - pecoとghqの概念を把握すること
+  - 参考URLに記載されている内容を咀嚼と消化をしっかり行う。どうしてもわからない箇所は先生に訊くこと
 ### August 8th - August 14th
 ### August 15th - August 21st
 ### August 22nd - August 28th

@@ -2,7 +2,7 @@
 ## ⏰ 学習時間
 | 7 days | Study time |
 | :---: | :---: |
-| August 1st - August 7th |  h |
+| August 1st - August 7th | 24 h |
 | August 8th - August 14th |  h |
 | August 15th - August 21st |  h |
 | August 22nd - August 28th |  h |

@@ -22,7 +22,10 @@
   - 参考URLに記載されている内容を咀嚼と消化をしっかり行う。どうしてもわからない箇所は先生に訊くこと
 ### August 8th - August 14th
 - 『pecoとghqを導入する』
+  - インプット教材 『pecoとghqで今より2倍速くコーディングしよう』を視聴
+  - pecoとghqを組み合わせる
 - 『VS Codeの使い方を学ぶ』
+  - 指定された動画を視聴して、開発においてのVS Codeの使用をイメージすること
 ### August 15th - August 21st
 ### August 22nd - August 28th
 ### August 29th - August 31st

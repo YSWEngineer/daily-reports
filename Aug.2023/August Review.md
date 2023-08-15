@@ -3,7 +3,7 @@
 | 7 days | Study time |
 | :---: | :---: |
 | August 1st - August 7th | 24 h |
-| August 8th - August 14th |  h |
+| August 8th - August 14th | 13.1 h |
 | August 15th - August 21st |  h |
 | August 22nd - August 28th |  h |
 | August 29th - August 31st |  h |
@@ -21,6 +21,8 @@
     - pecoとghqの概念を把握すること
   - 参考URLに記載されている内容を咀嚼と消化をしっかり行う。どうしてもわからない箇所は先生に訊くこと
 ### August 8th - August 14th
+- 『pecoとghqを導入する』
+- 『VS Codeの使い方を学ぶ』
 ### August 15th - August 21st
 ### August 22nd - August 28th
 ### August 29th - August 31st

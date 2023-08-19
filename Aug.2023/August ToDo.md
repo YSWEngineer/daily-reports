@@ -1,22 +1,25 @@
 # 8月のToDo
 ## 🏋🏻 8月の目標
-### HCロードマップ
-- Git & GitHub
-  - Gitの基本を身につける
-    - [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy](https://www.udemy.com/course/unscared_git/)
-    - [Gitによるバージョン管理](https://www.youtube.com/watch?v=WMIiPcgGC4Q&t=745s)
-    - [GitHub & Pull Request](https://www.youtube.com/watch?v=ALQvBsWQ2dA)
-  - Gitに触れながら学ぶ
-    - [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy](https://www.udemy.com/course/unscared_git/)
-    - [Liarn Git Branching](https://learngitbranching.js.org/?locale=ja)
-  - 課題提出用のリポジトリの作成
-    - [Inviting collaborators to a personal repository](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
-  - Pull Requestの練習
-    - [pull requestの作成](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-  - GitHub Flowについて学ぶ
-    - [tomoyaさんのGitHub Flowの解説](https://www.youtube.com/watch?v=EYSW5rBUnu8)
-    - [GitのDiagram](https://pbs.twimg.com/media/Fh6bl4DWIAAZxse.jpg:large)
-    - [GitHub Flow](https://zenn.dev/ryo_4947123/books/497459787cb294/viewer/branchstrategy_githubflow)
+### Git & GitHub
+#### Gitの基本を身につける
+- [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy](https://www.udemy.com/course/unscared_git/)
+- [Gitによるバージョン管理](https://www.youtube.com/watch?v=WMIiPcgGC4Q&t=745s)
+- [GitHub & Pull Request](https://www.youtube.com/watch?v=ALQvBsWQ2dA)
+
+#### Gitに触れながら学ぶ
+- [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy](https://www.udemy.com/course/unscared_git/)
+- [Liarn Git Branching](https://learngitbranching.js.org/?locale=ja)
+
+#### 課題提出用のリポジトリの作成
+- [Inviting collaborators to a personal repository](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+
+#### Pull Requestの練習
+- [pull requestの作成](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+
+#### GitHub Flowについて学ぶ
+- [tomoyaさんのGitHub Flowの解説](https://www.youtube.com/watch?v=EYSW5rBUnu8)
+- [GitのDiagram](https://pbs.twimg.com/media/Fh6bl4DWIAAZxse.jpg:large)
+- [GitHub Flow](https://zenn.dev/ryo_4947123/books/497459787cb294/viewer/branchstrategy_githubflow)
 
 
 ※　先に進むことは大事だが、焦らないこと

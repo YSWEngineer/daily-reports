@@ -1,6 +1,6 @@
 # 8月のToDo
 ## 🏋🏻 8月の目標
-### Git & GitHub
+### 【Git & GitHub】
 #### Gitの基本を身につける
 - [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy](https://www.udemy.com/course/unscared_git/)
 - [Gitによるバージョン管理](https://www.youtube.com/watch?v=WMIiPcgGC4Q&t=745s)
@@ -27,7 +27,7 @@
 ※　一つ一つ着実に進むこと
 
 ※　「急ぐこと」 と 「焦ること」 は違う
-### ボディメイク
+### 【ボディメイク】
 - 10分休憩、昼休憩に筋トレ、ストレッチを行う ※上から順に
   - ラジオ体操
   - スクワット
@@ -51,19 +51,19 @@
 ---
 
 ## 🕺 1日のルーティーン
-### 情報収集
+### 【情報収集】
 - Twitter
 - Slack
   - 日報
   - question
   - output
   - times
-### Typing練習
+### 【Typing練習】
 - [monkeytype](https://monkeytype.com)
 - [typing.io](https://typing.io)
 - [寿司打](https://sushida.net/play.html)
 - [e-typing](https://www.e-typing.ne.jp)
-### 学習
+### 【学習】
 - HCロードマップ(カリキュラム)学習
 - 日報の作成・提出
 - 「#今日の積み上げ」タグを付けてTwitterにTweet
@@ -71,17 +71,17 @@
 ---
 
 ## 📋 学習の記録
-### GitHubへの記録
+### 【GitHubへの記録】
 - August Review.mdに1週間毎の学習時間、学習した内容を記録すること
 ---
 
 ## 🌞 休憩時の過ごし方
-### 筋トレ
+### 【筋トレ】
 - ラジオ体操
 - スクワット
 - 腕立て
 - 腹筋
 - ストレッチ
-### 食事
+### 【食事】
 - 栄養面を考慮した食事
 - 次の行動を円滑に行うために、食べ過ぎないこと ※腹7分目を目安に

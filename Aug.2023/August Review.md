@@ -4,7 +4,7 @@
 | :---: | :---: |
 | August 1st - August 7th | 24 h |
 | August 8th - August 14th | 13.1 h |
-| August 15th - August 21st |  h |
+| August 15th - August 21st | 19.3 h |
 | August 22nd - August 28th |  h |
 | August 29th - August 31st |  h |
 

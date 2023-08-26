@@ -43,6 +43,11 @@
 
 
 ### August 22nd - August 28th
+### Gitの基本を身に付ける
+  - 『Git：もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy』
+---
+
+
 ### August 29th - August 31st
 ---
 

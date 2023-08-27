@@ -8,8 +8,7 @@
 - [ ] 32. ステージした変更を取り消そう 7分
 - [ ] 33. 直前のコミットをやり直そう 7分
 
-[]
-小テスト2：本章の復習
+- [ ] 小テスト2：本章の復習
 
 ### セクション5：GitHubとやり取りしよう 25分
 - [ ] 34. リモートの情報を確認しよう　3分
@@ -20,9 +19,9 @@
 - [ ] 39. リモートの情報を詳しく知ろう　2分
 - [ ] 40. リモートの変更・削除しよう　2分
 
-小テスト3：本章の復習
+- [ ] 小テスト3：本章の復習
 
-### セクション6：ブランチとマージを使いこなそう　1時間9分
+### セクション6：ブランチとマージを使いこなそう　1時間09分
 - [ ] 41. ブランチって何？ 3分
 - [ ] 42. ブランチの仕組みを知ろう　13分
 - [ ] 43. 新しいブランチを作成しよう　5分
@@ -34,7 +33,7 @@
 - [ ] 49. ブランチを利用した開発の流れ　4分
 - [ ] 50. リモートブランチって何？　4分
 
-小テスト4：本章の復習
+- [ ] 小テスト4：本章の復習
 
 ### セクション7：GitHubを利用した開発手順の流れ 27分
 - [ ] 51. プルリクエストの流れ　16分
@@ -67,29 +66,30 @@
 - [Gitによるバージョン管理](https://www.youtube.com/watch?v=WMIiPcgGC4Q&t=745s)
 - [GitHub & Pull Request](https://www.youtube.com/watch?v=ALQvBsWQ2dA)
 
-#### Gitに触れながら学ぶ
+## Gitに触れながら学ぶ
 - [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy](https://www.udemy.com/course/unscared_git/)
 - [Liarn Git Branching](https://learngitbranching.js.org/?locale=ja)
 
-#### 課題提出用のリポジトリの作成
+## 課題提出用のリポジトリの作成
 - [Inviting collaborators to a personal repository](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
-#### Pull Requestの練習
+## Pull Requestの練習
 - [pull requestの作成](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-#### GitHub Flowについて学ぶ
+## GitHub Flowについて学ぶ
 - [tomoyaさんのGitHub Flowの解説](https://www.youtube.com/watch?v=EYSW5rBUnu8)
 - [GitのDiagram](https://pbs.twimg.com/media/Fh6bl4DWIAAZxse.jpg:large)
 - [GitHub Flow](https://zenn.dev/ryo_4947123/books/497459787cb294/viewer/branchstrategy_githubflow)
 
 
-※　先に進むことは大事だが、焦らないこと
+- [x] ※ **自身のアウトプットのため**にGit、GitHub、Gitコマンド、これらの基礎についてまとめた記事を作成 → Qiitaに投稿
+- [x] ※ **学習スピードの向上を図る**
+- [x] ※ **先に進むことは大事だが、焦らないこと**
+- [x] ※ **一つ一つ着実に進むこと**
+- [x] ※ **「急ぐこと」 と 「焦ること」 は違う**
 
-※　一つ一つ着実に進むこと
-
-※　「急ぐこと」 と 「焦ること」 は違う
-### 【ボディメイク】
-10分休憩、昼休憩時に筋トレ、ストレッチを行う ※上から順に
+## 【ボディメイク】
+### 10分休憩、昼休憩時に筋トレ、ストレッチを行う ※上から順に
 - ラジオ体操
 - スクワット
 - 6パック

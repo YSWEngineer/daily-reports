@@ -6,11 +6,11 @@
 | August 8th - August 14th | 13.1 h |
 | August 15th - August 21st | 19.3 h |
 | August 22nd - August 28th | 13.8 h |
-| August 29th - August 31st |  h |
+| August 29th - August 31st | 16.5 h |
 
 | Total | Days of study in one month | Daily average study hours |
 | :---: | :---: | :---: |
-|  hours |  days |  hours |
+| 86.9 hours | 18 days | 4.82 hours |
 ---
 
 
@@ -49,6 +49,8 @@
 
 
 ### August 29th - August 31st
+### Gitの基本を身に付ける
+  - 『Git：もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy』
 ---
 
 

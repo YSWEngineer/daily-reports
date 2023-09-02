@@ -1,6 +1,6 @@
 # 9月のToDo
 ## 🏋🏻 9月の目標
-## 【Git & GitHub】 修了
+## 【Git & GitHub】 修了、【HTML/CSS】の『初級アウトプット課題』まで修了
 ## Gitの基本を身につける
 - [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy](https://www.udemy.com/course/unscared_git/)
 ### セクション6：ブランチとマージを使いこなそう　1時間09分
@@ -77,31 +77,32 @@
 
 ## ⏰ 時間配分
 ## 学習時間
-### 目標
+## 目標
 - 1日平均`6h`
 - 週間平均`30h`
 - 月間合計`120h`
 
-### 1日の時間配分
+## 1日の時間配分
 - `5:30 ~ 6:30` 情報収集(Twitter、Qiita、Slack：report、output、question、times)、Typing練習
-- `6:30 ~ 15:00` HCロードマップ(カリキュラム)学習 / LinuC Lv1-101問題集 ※1分野ずつインプット学習を行う
-- `15:00 ~ 17:00` 日報の作成・提出、「#HappinessChain、#今日の積み上げ」タグを付けてTweet、「あいうえおフォニックス」の発音の学習
+- `6:30 ~ 15:30` HCロードマップ(カリキュラム)学習 / LinuC Lv1-101問題集 ※1分野ずつインプット学習を行う
+- `15:30 ~ 16:30` 日報の作成・提出、「#HappinessChain、#今日の積み上げ」タグを付けてTweet、「あいうえおフォニックス」の発音の学習
 ---
 
 ## 🕺 1日のルーティーン
 ## 【情報収集】
-- Twitter
-- Slack
-  - 日報
-  - question
-  - output
-  - times
-### 【Typing練習】
-- [monkeytype](https://monkeytype.com)
-- [typing.io](https://typing.io)
-- [寿司打](https://sushida.net/play.html)
-- [e-typing](https://www.e-typing.ne.jp)
-### 【学習】
+### Slack
+- 日報
+- question
+- output
+- times
+### X
+### Qiita
+## 【Typing練習】
+### [monkeytype](https://monkeytype.com)
+### [typing.io](https://typing.io)
+### [寿司打](https://sushida.net/play.html)
+### [e-typing](https://www.e-typing.ne.jp)
+## 【学習】
 - HCロードマップ(カリキュラム)学習
 - 日報の作成・提出
 - タグを付けてXにTweet
@@ -109,17 +110,17 @@
 ---
 
 ## 📋 学習の記録
-### 【GitHubへの記録】
+## 【GitHubへの記録】
 - September Review.mdに1週間毎の学習時間、学習した内容を記録すること
 ---
 
 ## 🌞 休憩時の過ごし方
-### 【筋トレ】
+## 【筋トレ】
 - ラジオ体操
 - スクワット
 - 腕立て
 - 腹筋
 - ストレッチ
-### 【食事】
+## 【食事】
 - 栄養面を考慮した食事
 - 次の行動を円滑に行うために、食べ過ぎないこと ※腹7分目を目安に

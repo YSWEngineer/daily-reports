@@ -1,6 +1,6 @@
 # 9月のToDo
 ## 🏋🏻 9月の目標
-## 【Git & GitHub】
+## 【Git & GitHub】 修了
 ## Gitの基本を身につける
 - [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy](https://www.udemy.com/course/unscared_git/)
 ### セクション6：ブランチとマージを使いこなそう　1時間09分

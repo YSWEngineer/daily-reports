@@ -24,5 +24,5 @@
 ---
 
 ## 学習時間
-- Today:&nbsp;&nbsp;&nbsp; 2 hours 40 min
+- Today:&nbsp;&nbsp; 2 hours 40 min
 - Total: 501 hours 24 min

@@ -14,7 +14,7 @@
 # ⏰ 学習時間
 | 7 days | Study time |
 | :---: | :---: |
-| September 1st - September 7th | h |
+| September 1st - September 7th | 11.5 h |
 | September 8th - September 14th | h |
 | September 15th - September 21st | h |
 | September 22nd - September 28th | h |

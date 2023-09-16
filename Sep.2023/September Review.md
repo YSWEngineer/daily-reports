@@ -15,7 +15,7 @@
 | 7 days | Study time |
 | :---: | :---: |
 | September 1st - September 7th | 11.5 h |
-| September 8th - September 14th | h |
+| September 8th - September 14th | 12.6 h |
 | September 15th - September 21st | h |
 | September 22nd - September 28th | h |
 | September 29th - September 30th | h |
@@ -34,11 +34,13 @@
 
 
 ### September 8th - September 14th
+- 『Git：もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy』
 ### 
 ---
 
 
 ### September 15th - September 21st
+- 『Git：もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy』
 ### 
 ---
 

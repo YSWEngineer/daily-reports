@@ -41,23 +41,81 @@
 - [x] ~~67. Gitコマンド集　1分~~
 - [x] ~~68. ボーナスレクチャー　3分~~
 
-### [Gitによるバージョン管理](https://www.youtube.com/watch?v=WMIiPcgGC4Q&t=745s)
-### [GitHub & Pull Request](https://www.youtube.com/watch?v=ALQvBsWQ2dA)
+## [Gitによるバージョン管理](https://www.youtube.com/watch?v=WMIiPcgGC4Q&t=745s)
+## [GitHub & Pull Request](https://www.youtube.com/watch?v=ALQvBsWQ2dA)
+***
+
 
 ## Gitに触れながら学ぶ
 ### [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy](https://www.udemy.com/course/unscared_git/)
 ### [Liarn Git Branching](https://learngitbranching.js.org/?locale=ja)
+### Main
+### Gitの基本的なコマンド群を程よいペースで学ぶ
+- [ ] 1:Gitのコミット
+- [ ] 2:Gitのブランチ
+- [ ] 3:ブランチとマージ
+- [ ] 4:Rebaseの解説
+
+### 更にGitの素晴らしさを堪能しよう
+- [ ] 1:HEADの分離
+- [ ] 2:相対リファレンス（^）
+- [ ] 3:相対リファレンス　その２(~)
+- [ ] 4:変更を元に戻す
+
+### 話題のrebaseってどんなものだろう？って人にオススメ
+- [ ] 1:cherry-pick入門
+- [ ] 2:インタラクティブrebase入門
+
+### Gitを使う上での様々なtipsやテクニックなど
+- [ ] 1:一つのコミットのみを取得
+- [ ] 2:コミットをやりくりする
+- [ ] 3:コミットをやりくりする その2
+- [ ] 4:Gitのタグ
+- [ ] 5:Git Describe
+
+### 勇気ある人のみ！
+- [ ] 1:9000回以上のrebase
+- [ ] 2:複数の親
+- [ ] 3:ブランチスパゲッティ
+
+### Remote
+### 自分のコードをより広く公開しましょう
+- [ ] 1:Clone入門
+- [ ] 2:リモートのブランチ
+- [ ] 3:Git Fetch
+- [ ] 4:Git Pull
+- [ ] 5:擬似的なチーム作業
+- [ ] 6:Git Push
+- [ ] 7:履歴の分岐
+- [ ] 8:ロックされたmain
+
+### 絶えず上級者の仕事は存在する…
+- [ ] 1:Push Main!
+- [ ] 2:リモートのmerge
+- [ ] 3:リモートのトラッキング
+- [ ] 4:Git pushの引数
+- [ ] 5:Git pushの引数 -- 拡張編!
+- [ ] 6:Fetchの引数
+- [ ] 7:無のsource
+- [ ] 8:Pullの引数
+***
+
 
 ## 課題提出用のリポジトリの作成
 ### [Inviting collaborators to a personal repository](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+***
+
 
 ## Pull Requestの練習
 ### [pull requestの作成](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+***
+
 
 ## GitHub Flowについて学ぶ
 ### [tomoyaさんのGitHub Flowの解説](https://www.youtube.com/watch?v=EYSW5rBUnu8)
 ### [GitのDiagram](https://pbs.twimg.com/media/Fh6bl4DWIAAZxse.jpg:large)
 ### [GitHub Flow](https://zenn.dev/ryo_4947123/books/497459787cb294/viewer/branchstrategy_githubflow)
+***
 
 
 - [x] ※ **自身のアウトプットのため**にGit、GitHub、Gitコマンド、これらの基礎についてまとめた記事を作成 → Qiitaに投稿
@@ -65,7 +123,8 @@
 - [x] ※ **先に進むことは大事だが、焦らないこと**
 - [x] ※ **一つ一つ着実に進むこと**
 - [x] ※ **「急ぐこと」 と 「焦ること」 は違う**
----
+***
+
 
 # ⏰ 時間配分
 ## 【学習時間】
@@ -75,7 +134,8 @@
 ### `5:30 ~ 6:30` 情報収集(Twitter、Qiita、Slack：report、output、question、times)、Typing練習
 ### `6:30 ~ 15:30` HCロードマップ(カリキュラム)学習 / LinuC Lv1-101問題集 ※1分野ずつインプット学習を行う
 ### `15:30 ~ 16:30` 日報の作成・提出、「#HappinessChain、#今日の積み上げ」タグを付けてTweet、「あいうえおフォニックス」の発音の学習
----
+***
+
 
 # 🕺 1日のルーティーン
 ## 【情報収集】
@@ -87,12 +147,14 @@
 ### 日報の作成・提出
 ### 「#HappinessChain、#今日の積み上げ」タグを付けてXにポスト
 ### 「あいうえおフォニックス」発音の学習
----
+***
+
 
 # 📋 学習の記録
 ## 【GitHubへの記録】
 ### September Review.mdに1週間毎の学習時間、学習した内容を記録すること
----
+***
+
 
 # 🌞 休憩時の過ごし方
 ## 【筋トレ】
@@ -104,4 +166,4 @@
 ## 【食事】
 ### 栄養面を考慮した食事
 ### 次の行動を円滑に行うために、食べ過ぎないこと ※腹7分目を目安に
----
+***

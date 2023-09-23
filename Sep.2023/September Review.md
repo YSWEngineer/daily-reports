@@ -41,6 +41,7 @@
 
 ### September 15th - September 21st
 - 『Git：もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy』
+- 『Learn Git Branching』
 ### 
 ---
 

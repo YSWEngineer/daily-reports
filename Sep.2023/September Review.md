@@ -16,7 +16,7 @@
 | :---: | :---: |
 | September 1st - September 7th | 11.5 h |
 | September 8th - September 14th | 12.6 h |
-| September 15th - September 21st | h |
+| September 15th - September 21st | 25.4 h |
 | September 22nd - September 28th | h |
 | September 29th - September 30th | h |
 

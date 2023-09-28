@@ -46,7 +46,7 @@
 ***
 
 
-## Gitに触れながら学ぶ
+## Gitに触れながら学ぶ 09/28(木) 修了
 ### [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy](https://www.udemy.com/course/unscared_git/)
 ### [Liarn Git Branching](https://learngitbranching.js.org/?locale=ja)
 ### Main

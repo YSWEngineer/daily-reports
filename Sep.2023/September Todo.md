@@ -46,7 +46,7 @@
 ***
 
 
-## Gitに触れながら学ぶ 09/28(木) 修了
+## ~~Gitに触れながら学ぶ~~ 09/28(木) 修了
 ### [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター | Udemy](https://www.udemy.com/course/unscared_git/)
 ### [Liarn Git Branching](https://learngitbranching.js.org/?locale=ja)
 ### Main
@@ -59,7 +59,7 @@
 ### 更にGitの素晴らしさを堪能しよう
 - [x] ~~1:HEADの分離~~
 - [x] ~~2:相対リファレンス（^）~~
-- [x] ~~3:相対リファレンス　その２(~)~~
+- [x] ~~3:相対リファレンス　その２(〜)~~
 - [x] ~~4:変更を元に戻す~~
 
 ### 話題のrebaseってどんなものだろう？って人にオススメ
@@ -101,12 +101,12 @@
 ***
 
 
-## 課題提出用のリポジトリの作成
+## ~~課題提出用のリポジトリの作成~~ 09/28(木) 修了
 ### [Inviting collaborators to a personal repository](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 ***
 
 
-## Pull Requestの練習
+## Pull Requestの練習 09/28(木) 着手
 ### [pull requestの作成](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 ***
 

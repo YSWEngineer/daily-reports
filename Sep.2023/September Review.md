@@ -47,7 +47,7 @@
 
 
 ### September 22nd - September 28th
-- 『Learn Git Branching』
+- 『Learn Git Branching』 修了
 ### 
 ---
 

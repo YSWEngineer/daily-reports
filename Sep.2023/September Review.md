@@ -48,6 +48,8 @@
 
 ### September 22nd - September 28th
 - 『Learn Git Branching』 修了
+- 『課題提出用のリポジトリを作成』 修了
+- 『Pull Requestの練習』
 ### 
 ---
 

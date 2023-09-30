@@ -55,6 +55,7 @@
 
 
 ### September 29th - September 30th
+- 『Pull Requestの練習』
 ### 
 ---
 

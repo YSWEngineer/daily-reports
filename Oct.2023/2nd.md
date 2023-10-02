@@ -2,20 +2,24 @@
 
 ## 取り組んだ課題
 ### 『Pull Requestの練習』
+- 実践：Pull Requestのテンプレートを作成するPR（プルリクエスト）を作成する
 ---
 
 ## 分かったこと・気付き
 ### 『Pull Requestの練習』
-
+- リポジトリの作成 〜　Pull Request作成 までの流れ
 ---
 
 ## 次の目標
-- 『Pull Requestの練習』 修了
+- 『github flowについて学ぶ』 修了
 ---
 
 ## 感じたこと
+- リポジトリの作成 〜　Pull Request作成 までの流れを時間を掛けて学びました。もし忘れてもいつでも確認ができるように、手順とそのスクショをNotionにまとめました。
+- 今後HCのカリキュラムを消化していく上でPRの機会が増えていくと思いますので、たくさん触れて自信を持ってできるようになりたいと思っています。
+
 ---
 
 ## 学習時間
-- Today:&nbsp;&nbsp;&nbsp;  hours  min
-- Total: 568 hours 23 min
+- Today:&nbsp;&nbsp; 5 hours 00 min
+- Total: 573 hours 23 min

@@ -32,6 +32,7 @@
 # 🖋️ 学習内容
 ### September 1st - September 7th 
 - 『Pull Requestの練習』
+- 『github flowについて学ぶ』
 
 ---
 

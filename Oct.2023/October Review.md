@@ -18,7 +18,7 @@
 | 7 days | Study time |
 | :---: | :---: |
 | September 1st - September 7th | 14.2 h |
-| September 8th - September 14th |  h |
+| September 8th - September 14th | 15.1 h |
 | September 15th - September 21st |  h |
 | September 22nd - September 28th |  h |
 | September 29th - September 31th |  h |

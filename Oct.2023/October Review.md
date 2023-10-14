@@ -39,10 +39,12 @@
 
 ### September 8th - September 14th
 - 『github flowについて学ぶ』
+- 『デベロッパーツールの使い方を学ぶ』
 ---
 
 
 ### September 15th - September 21st
+- 『初級アウトプット課題』
 ---
 
 

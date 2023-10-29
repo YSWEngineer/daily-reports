@@ -20,7 +20,7 @@
 | September 1st - September 7th | 14.2 h |
 | September 8th - September 14th | 15.1 h |
 | September 15th - September 21st | 16.1 h |
-| September 22nd - September 28th | 24.6 h |
+| September 22nd - September 28th | 28.2 h |
 | September 29th - September 31th |  h |
 
 | Total | Days of study in one month | Daily average study hours |
@@ -54,6 +54,7 @@
 
 
 ### September 29th - September 30th
+- 『初級アウトプット課題』
 ---
 
 

@@ -17,11 +17,11 @@
 # ⏰ 学習時間
 | 7 days | Study time |
 | :---: | :---: |
-| September 1st - September 7th | 14.2 h |
-| September 8th - September 14th | 15.1 h |
-| September 15th - September 21st | 16.1 h |
-| September 22nd - September 28th | 28.2 h |
-| September 29th - September 31th | 7.3 h |
+| October 1st - October 7th | 14.2 h |
+| October 8th - October 14th | 15.1 h |
+| October 15th - October 21st | 16.1 h |
+| October 22nd - October 28th | 28.2 h |
+| October 29th - October 31th | 7.3 h |
 
 | Total | Days of study in one month | Daily average study hours |
 | :---: | :---: | :---: |
@@ -30,30 +30,30 @@
 
 
 # 🖋️ 学習内容
-### September 1st - September 7th 
+### October 1st - October 7th 
 - 『Pull Requestの練習』
 - 『github flowについて学ぶ』
 
 ---
 
 
-### September 8th - September 14th
+### October 8th - October 14th
 - 『github flowについて学ぶ』
 - 『デベロッパーツールの使い方を学ぶ』
 ---
 
 
-### September 15th - September 21st
+### October 15th - October 21st
 - 『初級アウトプット課題』
 ---
 
 
-### September 22nd - September 28th
+### October 22nd - October 28th
 - 『初級アウトプット課題』
 ---
 
 
-### September 29th - September 30th
+### October 29th - October 30th
 - 『初級アウトプット課題』
 ---
 

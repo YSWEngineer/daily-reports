@@ -11,13 +11,6 @@
 ***
 
 
-## GitHub Flowについて学ぶ
-### [tomoyaさんのGitHub Flowの解説](https://www.youtube.com/watch?v=EYSW5rBUnu8)
-### [GitのDiagram](https://pbs.twimg.com/media/Fh6bl4DWIAAZxse.jpg:large)
-### [GitHub Flow](https://zenn.dev/ryo_4947123/books/497459787cb294/viewer/branchstrategy_githubflow)
-***
-
-
 - [x] ※ **自身のアウトプットのため**にGit、GitHub、Gitコマンド、これらの基礎についてまとめた記事を作成 → Qiitaに投稿
 - [x] ※ **学習スピードの向上を図る**
 - [x] ※ **先に進むことは大事だが、焦らないこと**

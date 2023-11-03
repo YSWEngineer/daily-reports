@@ -21,11 +21,11 @@
 | September 8th - September 14th | 15.1 h |
 | September 15th - September 21st | 16.1 h |
 | September 22nd - September 28th | 28.2 h |
-| September 29th - September 31th |  h |
+| September 29th - September 31th | 7.3 h |
 
 | Total | Days of study in one month | Daily average study hours |
 | :---: | :---: | :---: |
-|  hours |  days |  hours |
+| 80.9 hours | 20 days | 4.045 hours |
 ---
 
 

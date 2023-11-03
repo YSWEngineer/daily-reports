@@ -7,8 +7,7 @@
 
 
 ## 各課題
-## HTML/CSS初級アウトプット課題 着手
-### [HTML/CSS初級アウトプット課題]
+### HTML/CSS初級アウトプット課題 着手
 ***
 
 
@@ -44,7 +43,7 @@
 ## 【情報収集】
 ### Slack(日報 / question / output / times) / X / Qiita
 ## 【Typing練習】
-### [monkeytype](https://monkeytype.com) / [typing.io](https://typing.io) / [寿司打](https://sushida.net/play.html) / [e-typing](https://www.e-typing.ne.jp)
+### [monkeytype](https://monkeytype.com) / [typing.io](https://typing.io) / [e-typing](https://www.e-typing.ne.jp) / [myTyping](https://typing.twi1.me/) / [寿司打](https://sushida.net/play.html) 
 ## 【学習】
 1. HCロードマップ(カリキュラム)学習
 2. 日報の作成・提出

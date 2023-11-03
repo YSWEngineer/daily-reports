@@ -17,11 +17,11 @@
 # ⏰ 学習時間
 | 7 days | Study time |
 | :---: | :---: |
-| September 1st - September 7th |  h |
-| September 8th - September 14th |  h |
-| September 15th - September 21st |  h |
-| September 22nd - September 28th |  h |
-| September 29th - September 31th |  h |
+| November 1st - November 7th |  h |
+| November 8th - November 14th |  h |
+| November 15th - November 21st |  h |
+| November 22nd - November 28th |  h |
+| November 29th - November 31th |  h |
 
 | Total | Days of study in one month | Daily average study hours |
 | :---: | :---: | :---: |

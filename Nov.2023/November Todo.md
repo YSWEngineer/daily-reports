@@ -2,16 +2,15 @@
 ***
 
 
-# 🏋🏻 11月の目標：【Git & GitHub】 修了、【HTML/CSS】の『初級アウトプット課題』に着手
+# 🏋🏻 11月の目標：【HTML/CSS】の『初級アウトプット課題』 修了
 ***
 
 
 ## 各課題
-### HTML/CSS初級アウトプット課題 着手
+### HTML/CSS初級アウトプット課題
 ***
 
 
-- [x] ※ **自身のアウトプットのため**にGit、GitHub、Gitコマンド、これらの基礎についてまとめた記事を作成 → Qiitaに投稿
 - [x] ※ **学習スピードの向上を図る**
 - [x] ※ **先に進むことは大事だが、焦らないこと**
 - [x] ※ **一つ一つ着実に進むこと**
@@ -26,9 +25,9 @@
 ### `5:30 ~ 6:30`
 - 情報収集(Twitter、Qiita、Slack：report、output、question、times)、Typing練習
 ### `6:30 ~ 15:30`
-- HCロードマップ(カリキュラム)学習 / LinuC Lv1-101問題集 ※1分野ずつインプット学習を行う
+- HCロードマップ(カリキュラム)学習
 ### `15:30 ~ 16:30`
-- 日報の作成・提出、「#HappinessChain、#今日の積み上げ」タグを付けてTweet、「あいうえおフォニックス」の発音の学習
+- 日報の作成・提出、「あいうえおフォニックス」の発音の学習
 ***
 
 
@@ -38,9 +37,9 @@
 ## 【Typing練習】
 ### [monkeytype](https://monkeytype.com) / [typing.io](https://typing.io) / [e-typing](https://www.e-typing.ne.jp) / [myTyping](https://typing.twi1.me/) / [寿司打](https://sushida.net/play.html) 
 ## 【学習】
-1. HCロードマップ(カリキュラム)学習
+1. ロードマップ(カリキュラム)学習
 2. 日報の作成・提出
-3. 「#HappinessChain、#今日の積み上げ」タグを付けてXにポスト
+3. Xにポスト
 4. 『あいうえおフォニックス』 発音の学習
 ***
 

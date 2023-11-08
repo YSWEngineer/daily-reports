@@ -37,7 +37,6 @@
 
 
 ### November 8th - November 14th
-- 
 ---
 
 

@@ -35,7 +35,6 @@
 
 
 ### November 15th - November 21st
-- 
 ---
 
 

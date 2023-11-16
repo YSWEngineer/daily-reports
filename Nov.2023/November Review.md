@@ -39,7 +39,6 @@
 
 
 ### November 22nd - November 28th
-- 
 ---
 
 

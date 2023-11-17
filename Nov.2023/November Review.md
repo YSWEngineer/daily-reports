@@ -31,10 +31,13 @@
 
 
 ### November 8th - November 14th
+- 情報収集
+- 
 ---
 
 
 ### November 15th - November 21st
+- 情報収集
 ---
 
 
@@ -43,7 +46,6 @@
 
 
 ### November 29th - November 30th
-- 
 ---
 
 

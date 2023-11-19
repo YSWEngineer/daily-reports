@@ -40,6 +40,7 @@
 
 
 ### November 22nd - November 28th
+- 情報収集（予定）
 ---
 
 

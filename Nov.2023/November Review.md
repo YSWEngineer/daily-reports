@@ -40,11 +40,13 @@
 
 
 ### November 22nd - November 28th
-- 情報収集（予定）
+- 情報収集
+- 書籍まとめ
 ---
 
 
 ### November 29th - November 30th
+- 情報収集（予定）
 ---
 
 

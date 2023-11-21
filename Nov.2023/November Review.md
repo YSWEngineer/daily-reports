@@ -13,7 +13,7 @@
 | :---: | :---: |
 | November 1st - November 7th | 5.5 h |
 | November 8th - November 14th | 0 h |
-| November 15th - November 21st |  h |
+| November 15th - November 21st | 0 h |
 | November 22nd - November 28th |  h |
 | November 29th - November 31th |  h |
 

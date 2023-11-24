@@ -46,7 +46,7 @@
 
 
 ### November 29th - November 30th
-- 情報収集（予定）
+- 情報収集
 ---
 
 

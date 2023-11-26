@@ -1,4 +1,4 @@
-# 11月のレビュー
+# 12月のレビュー
 ---
 
 # ⏰ 時間配分（目安）
@@ -11,11 +11,11 @@
 # ⏰ 学習時間
 | 7 days | Study time |
 | :---: | :---: |
-| November 1st - November 7th | 5.5 h |
-| November 8th - November 14th | 0 h |
-| November 15th - November 21st | 0 h |
-| November 22nd - November 28th |  h |
-| November 29th - November 31th |  h |
+| December 1st - December 7th |  h |
+| December 8th - December 14th |  h |
+| December 15th - December 21st |  h |
+| December 22nd - December 28th |  h |
+| December 29th - December 31th |  h |
 
 | Total | Days of study in one month | Daily average study hours |
 | :---: | :---: | :---: |
@@ -24,29 +24,23 @@
 
 
 # 🖋️ 学習内容
-### November 1st - November 7th 
-- 『初級アウトプット課題』
+### December 1st - December 7th 
 ---
 
 
-### November 8th - November 14th
-- 情報収集
+### December 8th - December 14th
 ---
 
 
-### November 15th - November 21st
-- 情報収集
+### December 15th - December 21st
 ---
 
 
-### November 22nd - November 28th
-- 情報収集
-- 書籍まとめ
+### December 22nd - December 28th
 ---
 
 
-### November 29th - November 30th
-- 情報収集
+### December 29th - December 30th
 ---
 
 

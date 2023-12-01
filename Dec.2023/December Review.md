@@ -25,6 +25,7 @@
 
 # 🖋️ 学習内容
 ### December 1st - December 7th 
+- Fjord Boot Campに参加
 ---
 
 

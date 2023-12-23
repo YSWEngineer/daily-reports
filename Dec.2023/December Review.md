@@ -24,9 +24,9 @@
 # ⏰ 学習時間
 | 7 days | Study time |
 | :---: | :---: |
-| December 1st - December 7th |  h |
-| December 8th - December 14th |  h |
-| December 15th - December 21st |  h |
+| December 1st - December 7th | 17.0 h |
+| December 8th - December 14th | 22.2 h |
+| December 15th - December 21st | 13.3 h |
 | December 22nd - December 28th |  h |
 | December 29th - December 31th |  h |
 

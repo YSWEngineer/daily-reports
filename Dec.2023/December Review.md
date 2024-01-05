@@ -27,12 +27,12 @@
 | December 1st - December 7th | 17.0 h |
 | December 8th - December 14th | 22.2 h |
 | December 15th - December 21st | 13.3 h |
-| December 22nd - December 28th |  h |
-| December 29th - December 31th |  h |
+| December 22nd - December 28th | 24.0 h |
+| December 29th - December 31th | 7.1 h |
 
 | Total | Days of study in one month | Daily average study hours |
 | :---: | :---: | :---: |
-|  hours |  days |  hours |
+| 83.6 hours | 29 days | 2.88 hours |
 ---
 
 

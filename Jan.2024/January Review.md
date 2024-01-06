@@ -39,6 +39,8 @@
 # 🖋️ 学習内容
 ### January 1st - January 7th 
 - 『Terminal の基本を知る』
+- Hatena Blog 作成 『[コンピューター、それともコンピュータ？長音のあるとき、ないときについてちょっとだけ調べてみた](https://yswengineer.hatenablog.com/entry/2024/01/06/150617)』
+
 ---
 
 
@@ -63,7 +65,7 @@
 
 
 # 📰 作成した記事
-- なし
+- [コンピューター、それともコンピュータ？長音のあるとき、ないときについてちょっとだけ調べてみた](https://yswengineer.hatenablog.com/entry/2024/01/06/150617)
 ---
 
 

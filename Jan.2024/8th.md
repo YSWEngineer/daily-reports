@@ -185,5 +185,5 @@ Linux のインストール手順をなんとかまとめることができま�
 ---
 
 ## ⏰学習時間
-- Today: 3 hours 46 min
+- Today:&nbsp;&nbsp; 3 hours 46 min
 - Total: 102 hours 21 min

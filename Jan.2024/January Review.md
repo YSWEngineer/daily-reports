@@ -24,15 +24,15 @@
 # ⏰ 学習時間
 | 7 days | Study time |
 | :---: | :---: |
-| January 1st - January 7th |  h |
-| January 8th - January 14th |  h |
-| January 15th - January 21st |  h |
-| January 22nd - January 28th |  h |
-| January 29th - January 31th |  h |
+| January 1st - January 7th | 14.8 h |
+| January 8th - January 14th | 18.5 h |
+| January 15th - January 21st | 9.6 h |
+| January 22nd - January 28th | 8.8 h |
+| January 29th - January 31th | 3.5 h |
 
 | Total | Days of study in one month | Daily average study hours |
 | :---: | :---: | :---: |
-|  hours |  days |  hours |
+| 55.2 hours | 28 days | 1.97 hours |
 ---
 
 
@@ -45,22 +45,25 @@
 
 
 ### January 8th - January 14th
-- 
+- 『Linux をインストールする』
+- 『UNIX・Linux について知る』
 ---
 
 
 ### January 15th - January 21st
-- 
+- 『UNIX・Linux について知る』
 ---
 
 
 ### January 22nd - January 28th
-- 
+- 『UNIX・Linux について知る』
 ---
 
 
 ### January 29th - January 30th
-- 
+- 『UNIX・Linux について知る』
+- RubyKaigi 2024チケット購入
+- フィヨブーハウス申込
 ---
 
 
@@ -70,5 +73,6 @@
 
 
 # 🕺1月の振り返り
-
+- 昨年の11月下旬からアルバイトを始めて2ヶ月。上司が退職や長期休暇で抜けてしまい、全てを担うことになりました。学習に充てていた時間は仕事の業務内容の把握に費やし、プラクティスを進めるペースが一気に遅くなりました。今も仕事は大変なのですが、継続して勉強できるのは FBC の存在と FBCに携わるメンターさん、卒業生・受講生の皆さんのおかげです。次第に仕事の内容が分かってきたので（あとはとにかく実践あるのみ）今月は業務内容の把握に使っていた時間をプラクティスに徐々に切り替えていきます。
+- 最後に、5月、RubyKaigi 2024に参加します。参加するからには
 

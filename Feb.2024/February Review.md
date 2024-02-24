@@ -38,7 +38,7 @@
 
 # 🖋️ 学習内容
 ### February 1st - February 7th 
-- 
+- 『UNIX・Linux について知る』
 
 ---
 
@@ -59,7 +59,7 @@
 
 
 ### February 29th - February 30th
-- 『UNIX・Linux について知る』
+- 
 
 ---
 

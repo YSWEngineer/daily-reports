@@ -22,8 +22,8 @@
 ## ⏰ 学習時間
 | 7 days | Study time |
 | :---: | :---: |
-| March 1st - March 7th |  h |
-| March 8th - March 14th |  h |
+| March 1st - March 7th | 14.9 h |
+| March 8th - March 14th | 20.8 h |
 | March 15th - March 21st |  h |
 | March 22nd - March 28th |  h |
 | March 29th - March 31st |  h |

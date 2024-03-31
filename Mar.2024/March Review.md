@@ -24,39 +24,44 @@
 | :---: | :---: |
 | March 1st - March 7th | 14.9 h |
 | March 8th - March 14th | 20.8 h |
-| March 15th - March 21st |  h |
-| March 22nd - March 28th |  h |
-| March 29th - March 31st |  h |
+| March 15th - March 21st | 16.9 h |
+| March 22nd - March 28th | 5.5 h |
+| March 29th - March 31st | 1.4 h |
 
 | Total | Days of study in one month | Daily average study hours |
 | :---: | :---: | :---: |
-|  hours |  days |  hours |
+| 59.5 hours | 18 days | 3.3 hours |
 ---
 
 
 ## 💻 取り組んだプラクティス
 ### March 1st - March 7th 
 - 『SSH の基本を理解する』
+- 『標準入出力・リダイレクション・パイプを理解する』
 ---
 
 
 ### March 8th - March 14th
-- 
+- 『SSH の基本を理解する』
+- 『標準入出力・リダイレクション・パイプを理解する』
+- 『SSL/TLS の基本を理解する』
+- はてブ[ファイル・標準入出力・リダイレクション・パイプについて自分の言葉でできるだけ簡潔にまとめてみた](https://yswengineer.hatenablog.com/entry/2024/03/14/084120)
 ---
 
 
 ### March 15th - March 21st
-- 
+- 『SSL/TLS の基本を理解する』
+- 『Git の基本を理解する』
 ---
 
 
 ### March 22nd - March 28th
-- 
+- 『Git の基本を理解する』
 ---
 
 
 ### March 29th - March 31st
-- 
+- 『Git の基本を理解する』
 ---
 
 

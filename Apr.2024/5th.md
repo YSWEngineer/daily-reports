@@ -68,7 +68,8 @@
 
 
 ## 💡 本日の学び・気付き
-:::details GitHub CLI をインストール
+<details><summary> GitHub CLI をインストール</summary>
+  
 ### GitHub CLI を使う方法を選択
 前回の学習ではリモートリポジトリに push できるようになるには
 
@@ -89,7 +90,8 @@ Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/YSWEngineer/hello-world.git
  * [new branch]      main -> main
 ```
-:::
+
+</details>
 
 :::details 第2話 ブランチとは？ポインタってどういう意味？作成・確認・切り替え方法【連載】マンガでわかるGit ～コマンド編～
 ### mainブランチ

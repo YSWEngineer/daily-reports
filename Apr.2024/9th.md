@@ -1,6 +1,7 @@
 # 2023/04/09(火)
 ## 🕺 日頃からの意識
-:::details 日頃からの意識
+<details><summary>日頃からの意識</summary>
+	
 - 成長スピードを早めよう。
 - 自分の考えや気持ちを簡潔に言語化したり、相手にわかりやすく伝える話し方ができるようになろう。
 - 心と身体の状態を把握しながら行動しよう。
@@ -10,13 +11,13 @@
 - Git & GitHub とお友達になろう。
 - 5月の RubyKaigi までにプラクティスを Ruby まで進めよう。
 
-:::
+</details>
 
 ---
 
 
 ## 🗓️ プラクティス『GitHub の基本を理解する』の段取り
-:::details 段取り
+<details><summary>段取り</summary>
 - [x] ~~各参考ページを確認~~
   - [x] ~~[こちらの日報](https://bootcamp.fjord.jp/reports/24447#comment_48036)~~
   - [x] ~~[こちらの issue](https://github.com/jlord/patchwork/issues/27932)~~
@@ -32,13 +33,13 @@
 - [ ] 提出物の作成
 - [ ] 提出物の提出
 
-:::
+</details>
 
 ---
 
 
 ## 🗓️ 今週の ToDo
-:::details 今週の ToDo
+<details><summary>今週の ToDo</summary>
 - [x] Git-it に取り組む
   - [x] ~~1. Get Git Git をインストールして設定をする~~
   - [x] ~~2. Repository ローカルの repository を作成~~
@@ -73,7 +74,7 @@
    - [ ] 第18話 便利なgit tagの使い方！コミットにタグをつけて管理しやすくしよう
    - [ ] 第19話　detached HEAD 状態って何？ブランチがない状態を解決する方法
 
-:::
+</details>
 
 ---
 

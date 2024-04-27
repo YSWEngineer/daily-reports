@@ -65,7 +65,7 @@
 
 
 ## 💡 本日の学び・気付き
-:::details Git-it
+<details><summary>Git-it</summary>
 ### git status
 - リポジトリの変更ステータスを確認する。
 
@@ -94,10 +94,7 @@ git config user.name
 # Git のメールアドレスを確認
 git config user.email
 ```
-
-
-
-:::
+</details>
 
 ---
 

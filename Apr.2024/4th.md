@@ -65,7 +65,7 @@
 
 
 ## 💡 本日の学び・気付き
-:::details About remote repositories
+<details><summary>About remote repositories</summary>
 ### リモートリポジトリに push できない
 ターミナルで`git push origin main`を入力すると以下の内容が表示。
 ```
@@ -94,7 +94,7 @@ remote: Please see https://docs.github.com/get-started/getting-started-with-git/
 ### GitHub CLI をインストールの場合
 GitHub CLI は GitHub の機能をコマンドラインから操作するためのツールで、これによりターミナルから直接、リポジトリの管理、issue  の作成、pull request の作成、merge など、GitHub の主要な機能を利用することができる。
 
-:::
+</details>
 
 ---
 

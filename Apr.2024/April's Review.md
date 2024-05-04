@@ -24,45 +24,46 @@
 | :---: | :---: |
 | April 1st - April 7th | 14.9 h |
 | April 8th - April 14th | 20.8 h |
-| April 15th - April 21st |  h |
-| April 22nd - April 28th |  h |
-| April 29th - April 31st |  h |
+| April 15th - April 21st | 24.6 h |
+| April 22nd - April 28th | 6.2 h |
+| April 29th - April 30st | 7.8 h |
 
 | Total | Days of study in one month | Daily average study hours |
 | :---: | :---: | :---: |
-|  hours |  days |  hours |
+| 59.8 hours | 19 days | 3.14 hours |
 ---
 
 
 ## 💻 取り組んだプラクティス
 ### April 1st - April 7th 
-- 『SSH の基本を理解する』
+- 『GitHub の基本を理解する』
 ---
 
 
 ### April 8th - April 14th
-- 
+- 『GitHub の基本を理解する』
 ---
 
 
 ### April 15th - April 21st
-- 
+- 『GitHub の基本を理解する』
+- 『オンライン合同説明会ドリンクアップ』参加
+- 『Pull Request を行う』
 ---
 
 
 ### April 22nd - April 28th
-- 
+- 『Pull Request を行う』
+- 『RubyKaigi 2024　事前勉強会』出席
 ---
 
 
-### April 29th - April 31st
-- 
+### April 29th - April 30st
+- 『Pull Request を行う』
 ---
-
-
-## 📰 作成した記事
-- 
----
-
 
 ## 🕺 4月の振り返り
+- 3月に続いて体調や気持ちが崩れることがなくお仕事とFBCのプラクティスに集中できました。
+- FBC 内で行われました『オンライン合同説明会ドリンクアップ』に参加しました（2回目）。これまでWeb業界やWeb企業について右も左も分からなかったのがだんだんとイメージできるようになってきました。直接企業さんとお話しするような機会は多くないのでこのようなイベントは助かりますし、大変勉強にもなります。
+- 5月のRubyKaigi 2024に向けて、『RubyKaigi 2024　事前勉強会』にも参加しました。Rubyコミッターの皆さん、FBC生の皆さん、初めてお逢いした方々との語らいから「Rubyへの想い」「物事の考え方」「行動力」などたくさんの刺激をうけました。
+- 3月・4月はプライベートでややこしい出来事がわんさか発生したにもかかわらず設定目標をほぼ達成することができたのは嬉しいです。

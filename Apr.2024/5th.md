@@ -93,7 +93,7 @@ To https://github.com/YSWEngineer/hello-world.git
 
 </details>
 
-:::details 第2話 ブランチとは？ポインタってどういう意味？作成・確認・切り替え方法【連載】マンガでわかるGit ～コマンド編～
+<details><summary>第2話 ブランチとは？ポインタってどういう意味？作成・確認・切り替え方法【連載】マンガでわかるGit ～コマンド編～</summary>
 ### mainブランチ
 - mainブランチ：`git init`でリポジトリを作ったときから存在しているブランチのこと。
 
@@ -109,7 +109,7 @@ mainブランチの正体は、mainファイルのこと。このmainファイ�
 - git chackout [ブランチ名]：任意のブランチへ移動する。
    - git checkout -b [ブランチ名]：ブランチの作成とチェックアウトを同時に行う。
    - git checkout -f [ブランチ名]：ブランチを強制的に切り替えることができる（コミットしていない作業データは消えるので注意）。
-:::
+</details>
 
 :::details Git-it
 ### remote の設定を追加する

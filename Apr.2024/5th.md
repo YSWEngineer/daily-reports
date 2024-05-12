@@ -111,7 +111,8 @@ mainブランチの正体は、mainファイルのこと。このmainファイ�
    - git checkout -f [ブランチ名]：ブランチを強制的に切り替えることができる（コミットしていない作業データは消えるので注意）。
 </details>
 
-:::details Git-it
+<details><summary>Git-it</summary>
+  
 ### remote の設定を追加する
 `git remote add <REMOTENAME> <URL>`
 
@@ -126,7 +127,7 @@ mainブランチの正体は、mainファイルのこと。このmainファイ�
 
 ### 変更を push する
 `git push <REMOTENAME> <BRANCH>`
-:::
+</details>
 
 ---
 

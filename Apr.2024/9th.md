@@ -161,7 +161,8 @@
 
 </details>
 
-:::details 【連載】マンガでわかるGit ～コマンド編～ 第7話 間違えて reset しちゃった？git reflogで元どおり
+<details><summary>【連載】マンガでわかるGit ～コマンド編～ 第7話 間違えて reset しちゃった？git reflogで元どおり</summary>
+	
 ### リフログ（reflog）とは？
 リフログとは、HEADの動き（自分自身が行った行動）を履歴にしたもの。具体的には、次のものが履歴として残る。
 
@@ -174,8 +175,7 @@
 
 ### 特定の時点までファイルを巻き戻す
 `git reset --hard HEAD@{n}`
-
-:::
+</details>
 
 :::details 【連載】マンガでわかるGit ～コマンド編～ 第8話 switchとrestoreを使ってみよう
 ### switch と restore

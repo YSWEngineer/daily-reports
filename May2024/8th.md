@@ -91,7 +91,7 @@ coffee_beans = ["Brazil", "Kenya", "Nicaragua"]
 even_numbers = [2, 4, 6] # even number：偶数
 ```
 - `[ ]`は空の配列を意味している。
-</details></details>
+</details>
 
 
 ---

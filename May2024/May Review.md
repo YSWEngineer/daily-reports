@@ -22,11 +22,11 @@
 ### ⏰ 学習時間
 | 7 days | Study time |
 | :---: | :---: |
-| May 1st - May 7th | 14.9 h |
-| May 8th - May 14th | 20.8 h |
-| May 15th - May 21st | 16.9 h |
-| May 22nd - May 28th | 5.5 h |
-| May 29th - May 31st | 1.4 h |
+| May 1st - May 7th |  h |
+| May 8th - May 14th |  h |
+| May 15th - May 21st |  h |
+| May 22nd - May 28th |  h |
+| May 29th - May 31st |  h |
 
 
 | Total | Days of study in one month | Daily average study hours |

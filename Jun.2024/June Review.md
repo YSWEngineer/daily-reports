@@ -70,8 +70,8 @@
 
 ---
 
-### 📰 作成した記事
--
+### 📰 作成したブログ
+- [Keynote で作成したスライドを Speaker Deck で公開しよう：自己満足的アウトプット](https://yswengineer.hatenablog.com/entry/2024/06/03/220514)
 -
 
 ### 🕺 5月の振り返り

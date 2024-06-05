@@ -72,6 +72,6 @@
 
 ### 📰 作成したブログ
 - [Keynote で作成したスライドを Speaker Deck で公開しよう：自己満足的アウトプット](https://yswengineer.hatenablog.com/entry/2024/06/03/220514)
--
+- ["フィヨルドブートキャンプでの学習時間と進捗：5月の振り返り"](https://yswengineer.hatenablog.com/entry/2024/06/03/165251)
 
 ### 🕺 5月の振り返り

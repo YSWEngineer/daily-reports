@@ -22,7 +22,7 @@
 ### ⏰ 学習時間
 | 7 days | Study time |
 | :---: | :---: |
-| June 1st - June 7th |  h |
+| June 1st - June 7th | 16.8 h |
 | June 8th - June 14th |  h |
 | June 15th - June 21st |  h |
 | June 22nd - June 28th |  h |
@@ -38,7 +38,6 @@
 
 ### 💻 取り組んだプラクティス
 #### June 1st - June 7th 
-- 『rbenv』
 - 『Ruby 初級』
 
 ---
@@ -46,27 +45,24 @@
 
 #### June 8th - June 14th
 - 『Ruby 初級』
-- 『フィヨブー RubyKaigi 2024 前夜祭』参加
 
 ---
 
 
 #### June 15th - June 21st
-- 『RubyKaigi 2024』参加
-- LT用のスライド作成
+
 
 ---
 
 
 #### June 22nd - June 28th
-- LT用のスライド作成
+
 
 ---
 
 
 #### June 29th - June 31st
-- LT用のスライド作成
-- 『🌺RubyKaigi 2024 スペシャル』にて初めてのLT🗣️
+
 
 ---
 

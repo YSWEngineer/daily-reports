@@ -6,7 +6,7 @@
 | 7 days | Study time |
 | :---: | :---: |
 | June 1st - June 7th | 16.8 h |
-| June 8th - June 14th |  h |
+| June 8th - June 14th | 10.9 h |
 | June 15th - June 21st |  h |
 | June 22nd - June 28th |  h |
 | June 29th - June 31st |  h |

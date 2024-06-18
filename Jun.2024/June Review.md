@@ -33,7 +33,7 @@
 
 
 #### June 15th - June 21st
-
+- 『Ruby 初級』
 
 ---
 

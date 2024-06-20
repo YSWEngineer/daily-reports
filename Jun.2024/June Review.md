@@ -39,6 +39,7 @@
 
 
 #### June 22nd - June 28th
+- 『Ruby 初級』
 
 
 ---

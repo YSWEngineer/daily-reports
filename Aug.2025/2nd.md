@@ -36,7 +36,7 @@
 
 - [ ] ソースコードを修正
   - test_cannot_put_stone
-    - [ ] 修正
+    - [x] 修正
   - test_finished_of_quickest_win_board
     - [ ] 修正
   - test_put_stone
@@ -67,7 +67,8 @@
 
 ### 🎯 次回
 #### プラクティス『プログラムの修正（リバーシ編）』
-- 修正を行う
+##### test_finished_of_quickest_win_board / test_finished_of_full_board
+- バグの原因を探る
     
 
 ---
@@ -75,9 +76,9 @@
 
 ### 💡 本日の学び・気付き
 #### test_cannot_put_stone
-<details open><summary>⚠️ ネタバレ注意</summary>
+<details><summary>⚠️ ネタバレ注意</summary>
 
-### turnメソッド内のコードを改めて言語化
+### turnメソッドの動きを丁寧に言語化
 ```ruby
 def turn(board, target_pos, attack_stone_color, direction)
     return false if target_pos.out_of_board?
@@ -151,6 +152,21 @@ end
 # もし狙っているマスが空白のマスならfalseを返し、turnメソッドを途中で終わらせる
 return false if target_pos.stone_color(board) == BLANK_CELL
 ```
+```ruby
+def turn(board, target_pos, attack_stone_color, direction)
+  return false if target_pos.out_of_board?
+  return false if target_pos.stone_color(board) == attack_stone_color
+  return false if target_pos.stone_color(board) == BLANK_CELL # ←return false if target_pos.stone_color(board) == BLANK_CELLを追加
+
+  next_pos = target_pos.next_position(direction)
+  if (next_pos.stone_color(board) == attack_stone_color) || turn(board, next_pos, attack_stone_color, direction)
+    board[target_pos.row][target_pos.col] = attack_stone_color
+    true
+  else
+    false
+  end
+end
+```
 
 ### テスト結果を確認
 ```shell
@@ -183,35 +199,35 @@ Expected false to be truthy.
 **① 最も早い勝利でリバーシの試合が終了**
 **② リバーシの盤面全てに白色と黒色の石が置かれて終了**
 
-と、「**リバーシの終了条件**」について関係していると推測。そして①・②共に`Expected false to be truthy.`（「**false が返ることを想定していたが、実際は true を返している**」）と表示されているので、`false`が返るように修正すれば良いと考える。
+と、「**リバーシの終了条件**」について関係している。そして①・②共に`Expected false to be truthy.`（「**true が返ることを想定していたが、実際は false を返している**」）と表示されているので、`true`が返るように修正すれば良いと考える。
 
 ### テストが何を期待しているかを確認する
 - ①`test_finished_of_quickest_win_board`
   - → 「最も早い勝利で試合が終了」とは、盤面の石の色が黒色だけあるいは白色だけの状態を指す。
-  - riversi_methods_test.rbを確認すると以下の内容のコードが書かれている↓。
+  - riversi_methods_test.rbファイルを確認すると以下の内容のコードが書かれている↓。
 ```ruby
 def test_finished_of_quickest_win_board
-    assert finished?(build_board(<<~BOARD)) # 白最短勝利
-      --------
-      ---W----
-      ---WW---
-      -WWWWW--
-      ---WWW--
-      ---WWW--
-      --------
-      --------
-    BOARD
-    assert finished?(build_board(<<~BOARD)) # 黒最短勝利
-      --------
-      --------
-      ----B---
-      ---BBB--
-      --BBBBB-
-      ---BBB--
-      ----B---
-      --------
-    BOARD
-  end
+  assert finished?(build_board(<<~BOARD)) # 白最短勝利
+    --------
+    ---W----
+    ---WW---
+    -WWWWW--
+    ---WWW--
+    ---WWW--
+    --------
+    --------
+  BOARD
+  assert finished?(build_board(<<~BOARD)) # 黒最短勝利
+    --------
+    --------
+    ----B---
+    ---BBB--
+    --BBBBB-
+    ---BBB--
+    ----B---
+    --------
+  BOARD
+end
 ```
 コードを見ると、「最も早い勝利で試合が終了（`quickest_win`）」は以下の2パターン。
 **1. 盤面に白石だけが残っているパターン。**
@@ -220,12 +236,22 @@ def test_finished_of_quickest_win_board
 
 
 - ②`test_finished_of_full_board`
-
-
-
-
-
-
+  - これも riversi_methods_test.rbファイルを確認すると、「盤面に空白のマス（`-`などの`BLACK_CELL`）が一切なく、全てのマスに黒石・白石が置かれた状態」になっている。
+  - したがって、「リバーシの盤面のマス全てに石が置かれている場合、`true`を返し、試合が終了と判定する」のが期待される内容だと考える。
+```ruby
+def test_finished_of_full_board
+  assert finished?(build_board(<<~BOARD)) # 全て埋まった盤面
+    WWWWWWWW
+    WBBWWBWB
+    WBBBBWBB
+    WBWBBBBB
+    WBWWBBBB
+    WBWWWBBB
+    WWWWWWBB
+    WBBBBBBB
+  BOARD
+end
+```
 </details>
 
 
@@ -233,16 +259,15 @@ def test_finished_of_quickest_win_board
 
 
 ### ✍🏻 感想
-#### 🤔 修正コードって？
-バグの原因になりそうな箇所に目星を付けられました。
-次は、その部分に対して具体的にどんなコードを書いて、どのように修正を加えるかを試していきます。
-先ずは仮説を立てて、テスト結果を確認しながら進めていく予定です。
+#### 🏋🏻 test_cannot_put_stoneに四苦八苦しつつ一歩前進
+「**修正への考え方**」や「**書いたコード**」が正しいのかどうかまだ自信が持てませんが、それでもなんとか一歩前進しました。本当は心の中では小躍りしたいほど嬉しいのですが、「本当にこれで合っているのだろうか？」という不安もあって、素直に喜びきれないのが正直なところです。
 
+このプラクティスを乗り越えた皆さんは本当に素晴らしいです。私も皆さんに続き、最後まで諦めずに課題クリアを目指します！
 
 
 ---
 
 
 ### ⏰ 学習時間
-- Today:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  hours  min
-- Total: 1195 hours 12 min
+- Today:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4 hours 42 min
+- Total: 1199 hours 54 min
